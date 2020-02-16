@@ -1,8 +1,8 @@
 body {
 
-    background-image: url('../img/reactionBG.jpg');
+    background-image: url('reactionBG.jpg');
     background-repeat: repeat;
-    cursor: url('../img/cursor.gif'), default;
+    cursor: url('cursor.gif'), default;
     overflow: hidden;
 }
 
